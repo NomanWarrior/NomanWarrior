@@ -5,9 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a discord.js developer.\
-💻 &nbsp; I'm a developer of a project called [Zyuk Music Bot](https://zyukbot.nomanwarrior.repl.co/)\
 ⭐ &nbsp; I can also develop custom websites and discord bots using [discord.js](https://discord.js.org)\
-💬 &nbsp; You can read more about me in my website: **https://nomanwarrior.repl.co/**
+💬 &nbsp; You can read more about me in my website: **https://elite.nomanwarrior.repl.co/**
 
 
 ### 🛠 &nbsp;Skills
@@ -25,5 +24,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
 ### 📫 &nbsp; How to reach me:
 
-⚡ &nbsp; You can find all my socials in my **[website](https://nomanwarrior.repl.co/)**
+⚡ &nbsp; You can find all my socials in my **[website](https://elite.nomanwarrior.repl.co/)**
 
